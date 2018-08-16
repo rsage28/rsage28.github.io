@@ -1,7 +1,5 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: home
 ---
 # About Me
 I am a software developer currently living in Halifax, Nova Scotia. I graduated from Dalhousie University with a Bachelor's of Computer Science in May 2016. 
