@@ -8,11 +8,15 @@ permalink: /about/
 I am a software developer currently living in Halifax, Nova Scotia. I graduated from Dalhousie University with a Bachelor's of Computer Science in May 2016. 
 I have been employed at Pelican Engineering since September 2016. I am a dual citizen of the United States and Canada. 
 
+I have had a strong interest in game development for many years now, reading books about design and storytelling, and eventually going on to learn Computer Science to be able to program games.
+
 My resume can be seen [here.]({{ "/assets/Resume.pdf" | absolute_url }})
 
-# My Work
+## My Work
+===
 
-## Game Development
+# Game Development
+===
 
 ### Detonation Dave: The Day of Devastation
 This game was made with Game Maker Studio. I did programming along with several other people, and a couple artists. 
@@ -51,7 +55,22 @@ AI controls other tanks to fight the player. Development is ongoing as I continu
 
 Repository is [here.](https://github.com/rsage28/TankBattle)
 
+### BatBorne
+This was done for Global Game Jam 2017. It is not included in the video reel because I was unable to get the project running when I pulled the repo, most likely due to being done in an older version of Unity.
+We had a dark level that could be lit up using echolocation (the player character is a bat) and also a little bit by moving. All sound attracted the owl to the player, increasing its follow speed.
+
+Repository is [here.](https://github.com/PFDrifter/ggj2017)
+
+### Solitarius
+This is a game conceptualized outside of any game jams or other events. Work was ongoing for a couple years, but has been put on hold for the time being. This is the most involved project, but was also not included
+because I was unable to get the project running (also probably because of Unity versions). This game has procedural generation of the whole play map (all in one seemless scene), 2D ballistics physics for weapon aiming,
+the ability to construct your own ships out of basic parts and weapons, adding system components, and loading ship data and other systems from JSON. All the movement in the game is physics based, meaning there is some 
+amount of rocket science going on here too. It also has the foundations of a state-machine based AI which was in the process of being fleshed out, along with using A* pathfinding (from built-in solutions, not written by us).
+
+Please email me for access to the repository, as it is currently private.
+
 ## Professional Work
+===
 
 ### Waggle
 I wrote the vast majority of the code for this website by myself while working at Pelican Engineering. It was done in JavaScript using the React and Meteor frameworks. 
