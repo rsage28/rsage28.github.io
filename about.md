@@ -12,11 +12,11 @@ I have had a strong interest in game development for many years now, reading boo
 
 My resume can be seen [here.]({{ "/assets/Resume.pdf" | absolute_url }})
 
-## My Work
+My Work
 ===
 
-# Game Development
-===
+Game Development
+---
 
 ### Detonation Dave: The Day of Devastation
 This game was made with Game Maker Studio. I did programming along with several other people, and a couple artists. 
@@ -69,8 +69,8 @@ amount of rocket science going on here too. It also has the foundations of a sta
 
 Please email me for access to the repository, as it is currently private.
 
-## Professional Work
-===
+Professional Work
+---
 
 ### Waggle
 I wrote the vast majority of the code for this website by myself while working at Pelican Engineering. It was done in JavaScript using the React and Meteor frameworks. 
