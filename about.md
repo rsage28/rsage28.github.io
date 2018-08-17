@@ -10,7 +10,7 @@ I have been employed at Pelican Engineering since September 2016. I am a dual ci
 
 I have had a strong interest in game development for many years now, reading books about design and storytelling, and eventually going on to learn Computer Science to be able to program games.
 
-My resume can be seen [here.]({{ "/assets/Resume.pdf" | absolute_url }})
+My resume can be seen [here.]({{ "assets/Resume.pdf" | absolute_url }})
 
 ## My Work
 
