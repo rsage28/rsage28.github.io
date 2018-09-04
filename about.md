@@ -67,6 +67,12 @@ amount of rocket science going on here too. It also has the foundations of a sta
 
 Please email me for access to the repository, as it is currently private.
 
+# Cellular Automata
+This is a project I did recently to learn about an algorithm I discovered. It generates a random map on every click and simply allows the user to pan and zoom. In the Unity3D editor, 
+you can play around with the parameters to adjust how the map is generated. 
+
+Repository is [here.](https://github.com/rsage28/Cellular-Automota) 
+
 ### Professional Work
 
 # Waggle
